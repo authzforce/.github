@@ -17,7 +17,7 @@ This organization contains the repositories of AuthzForce (Attribute-Based Acces
 * [AuthzForce RESTful PDP conforming to OpenID AuthZEN API](https://github.com/authzforce/authzen):  RESTful XACML PDP service compliant with OpenID AuthZEN Authorization API;
 * [AuthzForce Server](https://github.com/authzforce/server):  Multi-tenant XACML PDP/PAP server (REST API);
 * [AuthzForce PDP extensions for JSON / JSONPath processing](https://github.com/authzforce/pdp-ext-json-path);
-* [Data model for JSON Profile of XACML 3.0](https://github.com/authzforce/java-xacml-sdk), including JSON schemas;
+* [Data model for JSON Profile of XACML 3.0](https://github.com/authzforce/xacml-json-model), including JSON schemas;
 * [JAVA XACML Client SDK](https://github.com/authzforce/java-xacml-sdk);
 * [Python XACML Client SDK](https://github.com/authzforce/python-xacml-sdk);
 * [Apache Kafka Authorizer (KIP-11) supporting both Kafka ACL and XACML (ABAC) policy evaluation](https://github.com/authzforce/kafka-combined-acl-xacml-authorizer).
